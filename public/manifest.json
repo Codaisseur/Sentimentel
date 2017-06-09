@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Sentimentel",
+  "name": "Find out what people on Twitter think of your brand!",
   "icons": [
     {
       "src": "favicon.ico",
