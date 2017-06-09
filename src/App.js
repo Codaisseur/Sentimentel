@@ -16,6 +16,15 @@ class App extends Component {
         </p>
         <Search />
         <Result />
+
+        <div className="about">
+          <p>
+            This project is built on a <a href="https://github.com/Codaisseur/SentimentsAPI">NodeJS Express API</a>,
+            a <a href="https://github.com/Codaisseur/Sentimentel">React Front-end</a>, using Twitter for search,
+            and Microsoft Azure's <a href="https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview">Text Analytics API</a>.
+          </p>
+          <p>Made with ♥ in ✖✖✖ by <a href="https://www.codaisseur.com">Codaisseur</a></p>
+        </div>
       </div>
     );
   }
